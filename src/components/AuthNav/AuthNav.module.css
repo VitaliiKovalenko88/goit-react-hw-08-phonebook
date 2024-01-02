@@ -1,0 +1,13 @@
+.authNavContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.authNavLink {
+  color: white;
+  text-decoration: none;
+}
+
+.authNavLink:hover {
+  text-decoration: underline;
+}

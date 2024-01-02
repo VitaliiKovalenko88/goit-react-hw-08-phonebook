@@ -6,7 +6,7 @@ const HomePage = () => {
   return (
     <div className={css.homePage}>
       <div className={css.welcomeMessage}>
-        Welcome to our homepage!
+        Welcome to our Phonebook!
       </div>
     </div>
   );

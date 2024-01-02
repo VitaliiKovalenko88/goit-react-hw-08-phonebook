@@ -9,7 +9,7 @@ import { fetchContacts } from '../../redux/contacts/operation'
 import css from './Conatacts.module.css'
 
 
-const ProductPage = () => {
+const Contacts = () => {
   const dispatch = useDispatch()
   const isLoading = useSelector(selectIsLoading);
 
@@ -32,4 +32,4 @@ const ProductPage = () => {
   )
 }
 
-export default ProductPage;
+export default Contacts;

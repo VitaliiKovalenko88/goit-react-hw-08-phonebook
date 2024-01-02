@@ -1,0 +1,15 @@
+.homePage {
+  position: relative;
+  height: 100vh;
+  background: url('../../image/phonebook.gif') center/cover no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.welcomeMessage {
+  font-size: 24px;
+  margin: 20px 0;
+}

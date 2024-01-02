@@ -1,0 +1,17 @@
+.userMenu {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+}
+
+.logoutButton {
+  background-color: #555;
+  color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.userMail {
+  margin-right: 10px;
+  color: blueviolet;
+}

@@ -1,6 +1,5 @@
 import ContactItem from '../ContactItem/ContactItem';
 import css from './ContactList.module.css';
-import styles from '../ContactItem/ContactItem.module.css';
 import { useSelector } from 'react-redux';
 import { selectContacts } from '../../redux/contacts/selectors';
 import { selectFilter } from '../../redux/Filter/selectors';
@@ -23,7 +22,7 @@ const ContactList = () => {
       {visibleContacts.length > 0 ? (
         visibleContacts.map(({ id, name, number }) => {
           return (
-            <li className={styles.contactItem} key={id}>
+            <li className={css.contactItem} key={id}>
               <ContactItem id={id} name={name} number={number} />
             </li>
           );

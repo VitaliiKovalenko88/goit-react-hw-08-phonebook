@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/goit-react-hw-08-phonebook/static/css/main.23dc0f87.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.af1387f2.js",
-    "static/css/9.a92809b5.chunk.css": "/goit-react-hw-08-phonebook/static/css/9.a92809b5.chunk.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.adf01c3a.js",
+    "static/css/9.5245684a.chunk.css": "/goit-react-hw-08-phonebook/static/css/9.5245684a.chunk.css",
     "static/js/9.b37a641c.chunk.js": "/goit-react-hw-08-phonebook/static/js/9.b37a641c.chunk.js",
     "static/css/644.5bf48e29.chunk.css": "/goit-react-hw-08-phonebook/static/css/644.5bf48e29.chunk.css",
     "static/js/644.03bf4215.chunk.js": "/goit-react-hw-08-phonebook/static/js/644.03bf4215.chunk.js",
@@ -10,10 +10,11 @@
     "static/js/638.b0e76682.chunk.js": "/goit-react-hw-08-phonebook/static/js/638.b0e76682.chunk.js",
     "static/css/308.eae2e4ed.chunk.css": "/goit-react-hw-08-phonebook/static/css/308.eae2e4ed.chunk.css",
     "static/js/308.e11fe525.chunk.js": "/goit-react-hw-08-phonebook/static/js/308.e11fe525.chunk.js",
+    "static/media/phonebook.gif": "/goit-react-hw-08-phonebook/static/media/phonebook.8da275b8c14c4a168d0c.gif",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
     "main.23dc0f87.css.map": "/goit-react-hw-08-phonebook/static/css/main.23dc0f87.css.map",
-    "main.af1387f2.js.map": "/goit-react-hw-08-phonebook/static/js/main.af1387f2.js.map",
-    "9.a92809b5.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/9.a92809b5.chunk.css.map",
+    "main.adf01c3a.js.map": "/goit-react-hw-08-phonebook/static/js/main.adf01c3a.js.map",
+    "9.5245684a.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/9.5245684a.chunk.css.map",
     "9.b37a641c.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/9.b37a641c.chunk.js.map",
     "644.5bf48e29.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/644.5bf48e29.chunk.css.map",
     "644.03bf4215.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/644.03bf4215.chunk.js.map",
@@ -24,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.23dc0f87.css",
-    "static/js/main.af1387f2.js"
+    "static/js/main.adf01c3a.js"
   ]
 }
